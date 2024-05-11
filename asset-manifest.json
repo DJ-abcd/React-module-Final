@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DJ-abcd/React-module-Final/static/css/main.78f5ec7a.css",
+    "main.js": "/DJ-abcd/React-module-Final/static/js/main.b66b6ab4.js",
+    "static/media/background.png": "/DJ-abcd/React-module-Final/static/media/background.d8c7b9bc0a963cbce718.png",
+    "static/media/plus.png": "/DJ-abcd/React-module-Final/static/media/plus.f5d4d283910a71769470.png",
+    "index.html": "/DJ-abcd/React-module-Final/index.html",
+    "main.78f5ec7a.css.map": "/DJ-abcd/React-module-Final/static/css/main.78f5ec7a.css.map",
+    "main.b66b6ab4.js.map": "/DJ-abcd/React-module-Final/static/js/main.b66b6ab4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78f5ec7a.css",
+    "static/js/main.b66b6ab4.js"
+  ]
+}
